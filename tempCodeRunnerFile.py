@@ -1,0 +1,1 @@
+ball.goto(ball.xcor()+ ball.x_move, ball.ycor()+ ball.y_move)
