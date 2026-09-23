@@ -1,10 +1,10 @@
-# Ping Pong Game 🎮
+# Ping Pong Game
 
 A classic two-player arcade Ping Pong game built in Python using the `turtle` graphics library and Object-Oriented Programming (OOP) principles.
 
 ---
 
-## 🛠️ Tech Stack & Concepts
+## Tech Stack & Concepts
 
 * **Language:** Python 3.x
 * **GUI Framework:** Turtle Graphics (Standard Library)
@@ -12,7 +12,7 @@ A classic two-player arcade Ping Pong game built in Python using the `turtle` gr
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 * **main.py** — Entry point, main game loop, screen updates, and key bindings
 * **paddle.py** — Paddle creation, positioning, and movement logic
@@ -22,7 +22,7 @@ A classic two-player arcade Ping Pong game built in Python using the `turtle` gr
 
 ---
 
-## 🎮 Game Controls
+## Game Controls
 
 * **Right Player:**
   * **Up Arrow:** Move Paddle Up
@@ -34,7 +34,7 @@ A classic two-player arcade Ping Pong game built in Python using the `turtle` gr
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Modular OOP Architecture:** Clean separation of responsibilities across dedicated modules (`Paddle`, `Ball`, `Scoreboard`).
 * **Physics & Reflection Engine:** Precise vector calculations for bouncing off horizontal walls and player paddles.
@@ -43,7 +43,7 @@ A classic two-player arcade Ping Pong game built in Python using the `turtle` gr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    `git clone https://github.com/nepal-aly/ping-pong-python.git`
