@@ -2,6 +2,8 @@
 
 A classic two-player arcade Ping Pong game built in Python using the `turtle` graphics library and Object-Oriented Programming (OOP) principles.
 
+![Ping Pong game screenshot](images/ping-pong-python.png)
+
 ---
 
 ## Tech Stack & Concepts
