@@ -48,7 +48,7 @@ A classic two-player arcade Ping Pong game built in Python using the `turtle` gr
 ## Getting Started
 
 1. **Clone the repository:**
-   `git clone https://github.com/Nepal-Ali/ping-pong-python.git`
+   `git clone https://github.com/nepal-aly/ping-pong-python.git`
 
 2. **Navigate to directory:**
    `cd ping-pong-python`
